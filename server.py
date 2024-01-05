@@ -44,4 +44,4 @@ def flagler():
     print(response)
     return { 'suggestions': response }
     
-		
+app.run(host="0.0.0.0")

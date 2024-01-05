@@ -1,4 +1,6 @@
 flask-cors
 langchain
 flask
+openai
+chromadb
 dotenv
