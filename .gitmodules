@@ -1,0 +1,3 @@
+[submodule "fake-estate-site"]
+	path = fake-estate-site
+	url = ./fake-estate-site
